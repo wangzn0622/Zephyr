@@ -1,4 +1,6 @@
-## Welcome to wangzn0622👋
+# ✨Welcome to wangzn0622's 1st try ~ 
+## 📫Reach me: wangzn060222@163.com
+### 🌱Progress together ~
 
 <!--
 **wangzn0622/wangzn0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
